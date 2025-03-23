@@ -6,4 +6,4 @@ The goal of this project was to analyze, evaluate, and redesign a mobile scanner
 
 Using Figma, we created a [prototype redesign](https://www.figma.com/proto/DEWXOAiI9v0SlVEOiWMIV3/Scanner-App?node-id=0-1&t=IKaZQpYARTGxII1s-1) of Microsoft Lens. This prototype was subsequently evaluated and modified based on user feedback.
 
-> The original pdf document was written in Greek. Currently the english translation in this repository was completed using [Google AI Studio](aistudio.google.com).
+> The original pdf document was written in Greek. Currently the english translation in this repository was completed using [Google AI Studio](https://aistudio.google.com/).
